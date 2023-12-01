@@ -2,9 +2,9 @@
 
 ## Level 2 Heading
 
-*italic
+* italic *
 
-**bold
+** bold **
 
 ---
 
